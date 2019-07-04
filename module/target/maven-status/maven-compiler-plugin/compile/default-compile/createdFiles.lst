@@ -1,0 +1,17 @@
+com\imooc\one\dubbo\module\mapper\CategoryMapper.class
+com\imooc\one\dubbo\module\mapper\UserMapper.class
+com\imooc\one\dubbo\module\entity\Order.class
+com\imooc\one\dubbo\module\entity\Category.class
+com\imooc\one\dubbo\module\entity\OrderItem.class
+com\imooc\one\dubbo\module\mapper\OrderItemMapper.class
+com\imooc\one\dubbo\module\mapper\CartMapper.class
+com\imooc\one\dubbo\module\entity\Shipping.class
+com\imooc\one\dubbo\module\entity\Cart.class
+com\imooc\one\dubbo\module\Main.class
+com\imooc\one\dubbo\module\entity\User.class
+com\imooc\one\dubbo\module\mapper\PayInfoMapper.class
+com\imooc\one\dubbo\module\mapper\OrderMapper.class
+com\imooc\one\dubbo\module\entity\PayInfo.class
+com\imooc\one\dubbo\module\mapper\ShippingMapper.class
+com\imooc\one\dubbo\module\entity\Product.class
+com\imooc\one\dubbo\module\mapper\ProductMapper.class
